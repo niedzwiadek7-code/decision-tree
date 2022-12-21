@@ -11,9 +11,9 @@ class Employee {
       EXPERIENCE: 'experience_level',
       EMPLOYMENT_TYPE: 'employment_type',
       JOB_TITLE: 'job_title',
-      EMPLOYEE_RESIDENCE: 'employee_residence',
-      REMOTE_RATIO: 'remote_ratio',
-      COMPANY_LOCATION: 'company_location',
+      // EMPLOYEE_RESIDENCE: 'employee_residence',
+      // REMOTE_RATIO: 'remote_ratio',
+      // COMPANY_LOCATION: 'company_location',
       COMPANY_SIZE: 'company_size',
     }
   }
