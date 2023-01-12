@@ -1,0 +1,23 @@
+{
+  "children": [
+    {
+      "propName": "name",
+      "value": "value",
+      "childrens": [
+        {
+          "propName": "ch_name",
+          "value": "ch_value_1",
+          "childrens": [
+            {
+              "propName": "salary",
+              "value": {
+                "from": 4500,
+                "to": 9000
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

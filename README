@@ -1,4 +1,74 @@
-Przebudowa aplikacji
-Od teraz tworzysz drzewo
-Potem tworzysz przykładowego pracownika w testach
-Potem puszczasz pracownika przez stworzone drzewo i sprawdzasz, czy zwróci on oczekiwany zakres zarobkowy
+## work_year - definiuje rok, w ktorym była wykonywana praca
+
+### Widoczne właściwości
+- 2020
+- 2021
+- 2022
+
+
+## experience_level - doświadczenie pracownika
+
+### Widoczne właściwości
+- MI - Mid
+- EN - Początkujący
+- SE - Senior
+- EX - Expert
+
+## job_title - rodzaj pracy
+- Data Scientist
+- Data Engineer
+- 3D Computer Vision Researcher
+- Data Science Consultant
+- Big Data Engineer
+- Product Data Analyst
+- Data Analyst
+- BI Data Analyst
+- Computer Vision Engineer
+- AI Scientist
+- Machine Learning Scientist
+- ML Engineer
+- Business Data Analyst
+- Lead Data Analyst
+- Machine Learning Engineer
+- Data Analytics Engineer
+- Applied Machine Learning Scientist
+- Head of Data
+- NLP Engineer
+- Data Science Engineer
+- Lead Data Scientist
+- Research Scientist
+- Machine Learning Infrastructure Engineer
+- Data Science Manager
+- Applied Data Scientist
+- ETL Developer
+- Lead Data Engineer
+- Data Engineering Manager
+- Finance Data Analyst
+- Computer Vision Software Engineer
+- Principal Data Analyst
+- Machine Learning Developer
+- Head of Machine Learning
+- Head of Data Science
+- Lead Machine Learning Engineer
+- Marketing Data Analyst
+- Cloud Data Engineer
+- Data Architect
+- Big Data Architect
+- Financial Data Analyst
+- Staff Data Scientist
+- Data Analytics Manager
+- Director of Data Engineering
+- Machine Learning Manager
+- Director of Data Science
+- Analytics Engineer
+- Principal Data Scientist
+- Data Specialist
+- Principal Data Engineer
+- Data Analytics Lead
+
+## company_size - rozmiar firmy
+
+### Widoczne właściwości
+- S - mała
+- M - średnia
+- L - duża

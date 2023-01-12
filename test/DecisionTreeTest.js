@@ -5,16 +5,14 @@ class DecisionTreeTest {
     testData.forEach((data) => {
       const decisionTree = new DecisionTree(data.basicData)
       data.treeData.forEach((testProp) => {
-        const range = decisionTree.resolve(testProp.properties)
-        if (range) {
+        const response = decisionTree.resolve(testProp.properties)
+        if (typeof response === 'object') {
           console.log('For parameters:')
           console.log(testProp.properties)
-          console.log(`salary is from ${range.from} to ${range.to}`)
+          console.log(`salary is from ${response.from} to ${response.to}`)
           return
         }
-        console.log('Provided parameters:')
-        console.log(testProp.properties)
-        console.log('are invalid')
+        console.log(response)
       })
     })
   }

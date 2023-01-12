@@ -10,7 +10,8 @@ class DecisionTree {
 
     const enumProperties = this.getEnumProperties(data)
 
-    this.tree = this.getSortData(enumProperties, data, className, features)
+    this.basicTree = this.getSortData(enumProperties, data, className, features)
+    this.tree = this.createTreeStructure(this.basicTree)
   }
 
   getEnumProperties(data) {
@@ -70,6 +71,7 @@ class DecisionTree {
       if (el.values.length === 1) {
         // eslint-disable-next-line no-param-reassign,prefer-destructuring
         el[this.className.SALARY] = el.values[0]
+        // eslint-disable-next-line no-param-reassign
         delete el.values
       } else {
         let min = Infinity
@@ -80,6 +82,7 @@ class DecisionTree {
         })
         // eslint-disable-next-line no-param-reassign
         delete el.values
+        // eslint-disable-next-line no-param-reassign
         el[this.className.SALARY] = new Range(min, max)
       }
     })
@@ -87,22 +90,63 @@ class DecisionTree {
     return tree
   }
 
-  resolve(props) {
+  createTreeStructure(basicTree) {
+    const exampleTree = {
+      children: [],
+    }
+
+    const createBranch = (propName, value) => ({
+      propName,
+      value,
+      children: [],
+    })
+
+    const findValue = (value, branch) => branch.find((e) => e.value === value)
+
     // eslint-disable-next-line no-restricted-syntax
-    for (const el of this.tree) {
-      const matched = Object.keys(el).every((prop) => {
-        if (prop !== this.className.SALARY) {
-          // console.log(prop)
-          return props[prop] === el[prop]
+    for (const result of basicTree) {
+      let branch = exampleTree
+      // eslint-disable-next-line no-restricted-syntax,guard-for-in
+      for (const prop in result) {
+        const value = result[prop]
+
+        const findedBranch = findValue(value, branch.children)
+
+        if (findedBranch) {
+          branch = findedBranch
+        } else {
+          const newBranch = createBranch(prop, result[prop])
+          branch.children.push(newBranch)
+          branch = newBranch
         }
-        // console.log(prop, 'salary')
-        return true
-      })
-      if (matched) {
-        return el[this.className.SALARY]
       }
     }
-    return null
+
+    return exampleTree
+  }
+
+  resolve(props) {
+    const findValue = (value, branch) => branch.find((e) => e.value === value)
+
+    let branch = this.tree
+    // eslint-disable-next-line no-restricted-syntax
+    for (const propName of Object.values(this.features)) {
+      const findedBranch = findValue(props[propName], branch.children)
+
+      if (findedBranch) {
+        branch = findedBranch
+      } else {
+        const availableValues = []
+        branch.children.forEach((e) => availableValues.push(e.value))
+
+        return `
+          Nieoczekiwana wartość właściwości: ${branch.children[0].propName}.
+          Dostępne właściwości ${availableValues.join(',')}
+        `
+      }
+    }
+
+    return branch.children[0].value
   }
 }
 
