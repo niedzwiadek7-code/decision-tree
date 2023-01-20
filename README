@@ -72,3 +72,11 @@
 - S - mała
 - M - średnia
 - L - duża
+
+## employeement_type
+
+### Widoczne właściwości
+- PT - Part Time (pół etatu)
+- FT - Full Time (pełen etat)
+- CT - Contract (kontrakt)
+- FL - Freelance (freelancer)

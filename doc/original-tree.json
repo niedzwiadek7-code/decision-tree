@@ -1,0 +1,4512 @@
+{
+  "children": [
+    {
+      "propName": "work_year",
+      "value": "2021",
+      "children": [
+        {
+          "propName": "experience_level",
+          "value": "MI",
+          "children": [
+            {
+              "propName": "employment_type",
+              "value": "FT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 2859,
+                            "to": 86467
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 32719,
+                            "to": 152159
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 32719,
+                            "to": 164103
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 2859,
+                            "to": 116327
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 20775,
+                            "to": 205907
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 62579,
+                            "to": 68551
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Big Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 14803,
+                            "to": 20775
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 20775,
+                            "to": 26747
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 56607,
+                            "to": 62579
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Lead Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 14803,
+                            "to": 20775
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 20775,
+                            "to": 56607
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 44663,
+                            "to": 74523
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 86467,
+                            "to": 92439
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "BI Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 32719,
+                            "to": 38691
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 98411,
+                            "to": 104383
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Applied Machine Learning Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 32719,
+                            "to": 38691
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 420899,
+                            "to": 426871
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Science Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 38691,
+                            "to": 44663
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 50635,
+                            "to": 140215
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 86467,
+                            "to": 92439
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Applied Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 50635,
+                            "to": 56607
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Research Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 56607,
+                            "to": 62579
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 62579,
+                            "to": 68551
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 68551,
+                            "to": 187991
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "ML Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 62579,
+                            "to": 80495
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Cloud Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 86467,
+                            "to": 92439
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Computer Vision Software Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 92439,
+                            "to": 98411
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Analytics Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 104383,
+                            "to": 110355
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Head of Data Science",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 104383,
+                            "to": 110355
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Architect",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 146187,
+                            "to": 182019
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Principal Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 146187,
+                            "to": 152159
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Financial Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 444787,
+                            "to": 450759
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "propName": "employment_type",
+              "value": "PT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "3D Computer Vision Researcher",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 2859,
+                            "to": 8831
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 68551,
+                            "to": 74523
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "propName": "employment_type",
+              "value": "FL",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 8831,
+                            "to": 14803
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 14803,
+                            "to": 20775
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "propName": "employment_type",
+              "value": "CT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "ML Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 265627,
+                            "to": 271599
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "propName": "experience_level",
+          "value": "EN",
+          "children": [
+            {
+              "propName": "employment_type",
+              "value": "FT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 2859,
+                            "to": 104383
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 8831,
+                            "to": 62579
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 86467,
+                            "to": 104383
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Big Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 2859,
+                            "to": 20775
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "BI Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 8831,
+                            "to": 56607
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "AI Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 14803,
+                            "to": 20775
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 14803,
+                            "to": 128271
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 20775,
+                            "to": 26747
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 20775,
+                            "to": 68551
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 26747,
+                            "to": 80495
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 44663,
+                            "to": 80495
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 56607,
+                            "to": 92439
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Business Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 56607,
+                            "to": 62579
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Science Consultant",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 62579,
+                            "to": 80495
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 74523,
+                            "to": 92439
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Computer Vision Software Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 68551,
+                            "to": 74523
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Research Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 80495,
+                            "to": 104383
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Developer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 98411,
+                            "to": 104383
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Applied Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 104383,
+                            "to": 110355
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 223823,
+                            "to": 229795
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "propName": "employment_type",
+              "value": "PT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 8831,
+                            "to": 14803
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "AI Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 8831,
+                            "to": 14803
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 8831,
+                            "to": 14803
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Computer Vision Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 26747,
+                            "to": 32719
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "propName": "experience_level",
+          "value": "SE",
+          "children": [
+            {
+              "propName": "employment_type",
+              "value": "FT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Computer Vision Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 14803,
+                            "to": 26747
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 14803,
+                            "to": 170075
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 74523,
+                            "to": 80495
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 86467,
+                            "to": 92439
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 20775,
+                            "to": 205907
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 80495,
+                            "to": 86467
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Lead Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 38691,
+                            "to": 44663
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Analytics Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 44663,
+                            "to": 50635
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 74523,
+                            "to": 80495
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Research Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 44663,
+                            "to": 50635
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 56607,
+                            "to": 98411
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Science Manager",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 50635,
+                            "to": 241739
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "AI Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 50635,
+                            "to": 56607
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Finance Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 56607,
+                            "to": 62579
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 62579,
+                            "to": 205907
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 68551,
+                            "to": 74523
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 74523,
+                            "to": 80495
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 74523,
+                            "to": 116327
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 92439,
+                            "to": 152159
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 146187,
+                            "to": 170075
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Marketing Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 86467,
+                            "to": 92439
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Big Data Architect",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 98411,
+                            "to": 104383
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Head of Data",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 98411,
+                            "to": 104383
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Lead Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 98411,
+                            "to": 164103
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 271599,
+                            "to": 277571
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Director of Data Engineering",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 110355,
+                            "to": 116327
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 199935,
+                            "to": 205907
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 116327,
+                            "to": 122299
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 223823,
+                            "to": 229795
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Analytics Manager",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 116327,
+                            "to": 122299
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 116327,
+                            "to": 140215
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Science Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 122299,
+                            "to": 128271
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Engineering Manager",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 146187,
+                            "to": 176047
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Cloud Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 158131,
+                            "to": 164103
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Specialist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 164103,
+                            "to": 170075
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Director of Data Science",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 164103,
+                            "to": 170075
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Lead Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 164103,
+                            "to": 170075
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Principal Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 164103,
+                            "to": 170075
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Principal Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 170075,
+                            "to": 176047
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 217851,
+                            "to": 235767
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Principal Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 182019,
+                            "to": 187991
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 199935,
+                            "to": 205907
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Infrastructure Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 193963,
+                            "to": 199935
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "ML Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 253683,
+                            "to": 259655
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "propName": "employment_type",
+              "value": "CT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Staff Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 104383,
+                            "to": 110355
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "propName": "experience_level",
+          "value": "EX",
+          "children": [
+            {
+              "propName": "employment_type",
+              "value": "FT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Data Science Consultant",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 68551,
+                            "to": 74523
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Head of Data Science",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 80495,
+                            "to": 86467
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Director of Data Science",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 128271,
+                            "to": 134243
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 140215,
+                            "to": 253683
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "BI Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 146187,
+                            "to": 152159
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Head of Data",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 229795,
+                            "to": 235767
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Principal Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 594087,
+                            "to": 600000
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "propName": "employment_type",
+              "value": "CT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Principal Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 414927,
+                            "to": 420899
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "propName": "work_year",
+      "value": "2020",
+      "children": [
+        {
+          "propName": "experience_level",
+          "value": "EN",
+          "children": [
+            {
+              "propName": "employment_type",
+              "value": "FT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Data Science Consultant",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 2859,
+                            "to": 8831
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 2859,
+                            "to": 14803
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 68551,
+                            "to": 92439
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 38691,
+                            "to": 44663
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 44663,
+                            "to": 110355
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 38691,
+                            "to": 44663
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 50635,
+                            "to": 56607
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Research Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 38691,
+                            "to": 44663
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "AI Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 44663,
+                            "to": 50635
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Big Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 68551,
+                            "to": 74523
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 134243,
+                            "to": 140215
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 247711,
+                            "to": 253683
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "propName": "employment_type",
+              "value": "PT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "ML Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 14803,
+                            "to": 20775
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 20775,
+                            "to": 26747
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "propName": "employment_type",
+              "value": "CT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Business Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 98411,
+                            "to": 104383
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "propName": "experience_level",
+          "value": "MI",
+          "children": [
+            {
+              "propName": "employment_type",
+              "value": "FT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Product Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 2859,
+                            "to": 8831
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 14803,
+                            "to": 20775
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 2859,
+                            "to": 86467
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 32719,
+                            "to": 110355
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 38691,
+                            "to": 140215
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 38691,
+                            "to": 80495
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 38691,
+                            "to": 44663
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Infrastructure Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 44663,
+                            "to": 50635
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Lead Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 50635,
+                            "to": 56607
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Engineering Manager",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 56607,
+                            "to": 62579
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 68551,
+                            "to": 116327
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 128271,
+                            "to": 134243
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Lead Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 86467,
+                            "to": 92439
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "BI Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 92439,
+                            "to": 98411
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Science Consultant",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 98411,
+                            "to": 104383
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Lead Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 110355,
+                            "to": 116327
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Business Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 134243,
+                            "to": 140215
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Research Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 444787,
+                            "to": 450759
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "propName": "experience_level",
+          "value": "SE",
+          "children": [
+            {
+              "propName": "employment_type",
+              "value": "FT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 32719,
+                            "to": 38691
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 44663,
+                            "to": 193963
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 44663,
+                            "to": 50635
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 146187,
+                            "to": 152159
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 62579,
+                            "to": 414927
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 86467,
+                            "to": 92439
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Big Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 104383,
+                            "to": 110355
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 110355,
+                            "to": 116327
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Manager",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 116327,
+                            "to": 122299
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Lead Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 122299,
+                            "to": 128271
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Principal Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 146187,
+                            "to": 152159
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Lead Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 187991,
+                            "to": 193963
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Science Manager",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 187991,
+                            "to": 193963
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 259655,
+                            "to": 265627
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "propName": "employment_type",
+              "value": "FL",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Computer Vision Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 56607,
+                            "to": 62579
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "propName": "experience_level",
+          "value": "EX",
+          "children": [
+            {
+              "propName": "employment_type",
+              "value": "FT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Data Engineering Manager",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 74523,
+                            "to": 80495
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Director of Data Science",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 319375,
+                            "to": 325347
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "propName": "work_year",
+      "value": "2022",
+      "children": [
+        {
+          "propName": "experience_level",
+          "value": "EN",
+          "children": [
+            {
+              "propName": "employment_type",
+              "value": "FT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Computer Vision Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 8831,
+                            "to": 128271
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 14803,
+                            "to": 92439
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 38691,
+                            "to": 56607
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Analytics Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 14803,
+                            "to": 20775
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "ML Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 20775,
+                            "to": 26747
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 32719,
+                            "to": 38691
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 44663,
+                            "to": 122299
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 62579,
+                            "to": 68551
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 50635,
+                            "to": 68551
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Financial Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 98411,
+                            "to": 104383
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Research Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 116327,
+                            "to": 122299
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Computer Vision Software Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 146187,
+                            "to": 152159
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "propName": "employment_type",
+              "value": "CT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Applied Machine Learning Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 26747,
+                            "to": 32719
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "propName": "employment_type",
+              "value": "PT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 98411,
+                            "to": 104383
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "propName": "experience_level",
+          "value": "MI",
+          "children": [
+            {
+              "propName": "employment_type",
+              "value": "FT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Business Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 14803,
+                            "to": 20775
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 68551,
+                            "to": 74523
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 14803,
+                            "to": 62579
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 32719,
+                            "to": 170075
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 26747,
+                            "to": 140215
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 38691,
+                            "to": 205907
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 44663,
+                            "to": 50635
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Head of Data",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 32719,
+                            "to": 38691
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "NLP Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 32719,
+                            "to": 38691
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 44663,
+                            "to": 211879
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "ETL Developer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 50635,
+                            "to": 56607
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Infrastructure Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 56607,
+                            "to": 62579
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Research Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 62579,
+                            "to": 68551
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Principal Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 74523,
+                            "to": 80495
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Applied Machine Learning Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 74523,
+                            "to": 80495
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Developer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 74523,
+                            "to": 80495
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 86467,
+                            "to": 92439
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 86467,
+                            "to": 128271
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 116327,
+                            "to": 122299
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 110355,
+                            "to": 164103
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 152159,
+                            "to": 158131
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "AI Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 116327,
+                            "to": 122299
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 199935,
+                            "to": 205907
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Applied Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 152159,
+                            "to": 158131
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Science Manager",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 158131,
+                            "to": 241739
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "propName": "employment_type",
+              "value": "PT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 50635,
+                            "to": 56607
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "propName": "employment_type",
+              "value": "FL",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 98411,
+                            "to": 104383
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "propName": "experience_level",
+          "value": "SE",
+          "children": [
+            {
+              "propName": "employment_type",
+              "value": "FT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 20775,
+                            "to": 247711
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 98411,
+                            "to": 211879
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Science Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 56607,
+                            "to": 62579
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 56607,
+                            "to": 170075
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 62579,
+                            "to": 68551
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 62579,
+                            "to": 122299
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 116327,
+                            "to": 223823
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Machine Learning Developer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 74523,
+                            "to": 80495
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 74523,
+                            "to": 265627
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 116327,
+                            "to": 217851
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Lead Machine Learning Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 86467,
+                            "to": 92439
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Architect",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 86467,
+                            "to": 271599
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Research Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 92439,
+                            "to": 146187
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Analytics Manager",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 104383,
+                            "to": 152159
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Science Manager",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 134243,
+                            "to": 164103
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Principal Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 158131,
+                            "to": 164103
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Applied Data Scientist",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 176047,
+                            "to": 385067
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Analytics Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 182019,
+                            "to": 205907
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Head of Data",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 199935,
+                            "to": 205907
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Analytics Lead",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 402983,
+                            "to": 408955
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "propName": "experience_level",
+          "value": "EX",
+          "children": [
+            {
+              "propName": "employment_type",
+              "value": "FT",
+              "children": [
+                {
+                  "propName": "job_title",
+                  "value": "Head of Machine Learning",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 74523,
+                            "to": 80495
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Analyst",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 104383,
+                            "to": 134243
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Lead Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "S",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 116327,
+                            "to": 122299
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Analytics Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 134243,
+                            "to": 176047
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Head of Data Science",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 164103,
+                            "to": 229795
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Director of Data Science",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "L",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 193963,
+                            "to": 199935
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "propName": "job_title",
+                  "value": "Data Engineer",
+                  "children": [
+                    {
+                      "propName": "company_size",
+                      "value": "M",
+                      "children": [
+                        {
+                          "propName": "salary_in_usd",
+                          "value": {
+                            "from": 199935,
+                            "to": 325347
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
